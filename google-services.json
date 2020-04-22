@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407630395832",
+    "firebase_url": "https://ezee-notification.firebaseio.com",
+    "project_id": "ezee-notification",
+    "storage_bucket": "ezee-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407630395832:android:5bf687722a57b063de774d",
+        "android_client_info": {
+          "package_name": "com.example.ezeenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407630395832-kng6kj60dhr7u3hqaa2p4n2rlu1467si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJ8G5P3-RCuMs5Yua6PBtTEr-JO2yp9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407630395832-kng6kj60dhr7u3hqaa2p4n2rlu1467si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
